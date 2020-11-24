@@ -1,0 +1,13 @@
+{
+  "name": "tictactoe-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "public/index.html",
+  "scripts": {
+    "start": "parcel public/index.html --open",
+    "build": "parcel build public/index.html"
+  },
+  "dependencies": {},
+  "keywords": ["TicTacToe"],
+  "license": "ISC"
+}
